@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "SCENERY",
+  "title": "Sacheon Scenery ",
+  "manufacturer": "",
+  "creator": "jejuflight",
+  "package_version": "0.1.0",
+  "minimum_game_version": "1.24.5",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}
